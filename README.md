@@ -1,6 +1,6 @@
 # Real-time Voice Activity Detection (VAD) and Transcription with Openai Whisper
-Author: Mr. Jack
-Date: 01 Nov 2025
+- Author: Mr. Jack
+- Date: 01 Nov 2025
 
 This project provides real-time voice activity detection with automatic transcription capabilities. It can detect speech segments and transcribe them using Whisper.
 
